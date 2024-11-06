@@ -1,0 +1,38 @@
+[
+    {
+      "id": 1,
+      "category": "All products",
+      "slug": "product-all-products-1"
+    },
+    {
+      "id": 2,
+     "category": "Smartphones",
+      "slug": "product-accessories-2"
+    },
+    {
+      "id": 3,
+      "category": "Laptops",
+      "slug": "product-smartwatch-3"
+    },
+    {
+      "id": 4,
+      "category": "Accessories",
+      "slug": "product-macbook-4"
+    },
+    {
+      "id": 5,
+      "category": "Gaming",
+      "slug": "product-iphone-5"
+    },
+    {
+      "id": 6,
+    "category": "Televisions",
+      "slug": "product-laptop-6"
+    },
+    {
+      "id": 7,
+      "category": "Audio",
+      "slug": "product-accessories-7"
+    }
+  ]
+  

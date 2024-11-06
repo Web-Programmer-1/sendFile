@@ -1,0 +1,135 @@
+[
+    {
+      "id": 1,
+      "title": "Smartphone XYZ",
+      "image": "https://i.ibb.co.com/F3DBKkg/8039f6cc-078b-4540-9bee-c254e1440a38-4tz0cmpf-ai4s.jpg",
+      "category": "Smartphones",
+      "price": 699,
+      "description": "High-performance smartphone with latest features.",
+      "specification": ["6.5-inch display", "128GB storage", "5000mAh battery", "Quad-camera setup"],
+      "availability": true,
+      "rating": 4.5
+    },
+    {
+      "id": 2,
+      "title": "Laptop ABC",
+      "image": "https://i.ibb.co.com/441zDCK/HP-Victus-15-2.webp",
+      "category": "Laptops",
+      "price": 999,
+      "description": "Powerful laptop for work and gaming.",
+      "specification": ["15.6-inch display", "256GB SSD", "8GB RAM", "Intel i7 processor"],
+      "availability": true,
+      "rating": 4.8
+    },
+    {
+      "id": 3,
+      "title": "Wireless Earbuds",
+      "image": "https://i.ibb.co.com/KmhFBQC/Soundcore-Liberty-4-NC-True-Wireless-Noise-Cancelling-Earbuds-ll-600x600.webp",
+      "category": "Accessories",
+      "price": 129,
+      "description": "Noise-canceling wireless earbuds with long battery life.",
+      "specification": ["Bluetooth 5.0", "24-hour battery", "Water-resistant", "Touch controls"],
+      "availability": true,
+      "rating": 4.3
+    },
+    {
+      "id": 4,
+      "title": "Smart Watch",
+      "image": "https://i.ibb.co.com/vLT4KJd/20230627-1687851432-517313.jpg",
+      "category": "Wearables",
+      "price": 199,
+      "description": "Feature-packed smartwatch for fitness and connectivity.",
+      "specification": ["Heart-rate monitor", "GPS", "Sleep tracking", "Water-resistant"],
+      "availability": true,
+      "rating": 4.6
+    },
+    {
+      "id": 5,
+      "title": "Gaming Console",
+      "image": "https://i.ibb.co.com/qD22vh8/images.jpg",
+      "category": "Gaming",
+      "price": 499,
+      "description": "Next-gen gaming console with stunning graphics.",
+      "specification": ["4K resolution", "1TB storage", "HDR support", "Wireless controller"],
+      "availability": true,
+      "rating": 4.7
+    },
+    {
+      "id": 6,
+      "title": "4K TV",
+      "image": "https://i.ibb.co.com/p3J7LHn/oscar-24xl23-24-inch-500x500.webp",
+      "category": "Televisions",
+      "price": 799,
+      "description": "Ultra HD 4K TV with vibrant colors and smart features.",
+      "specification": ["55-inch display", "Smart TV", "HDR10", "Dolby Audio"],
+      "availability": true,
+      "rating": 4.5
+    },
+    {
+      "id": 7,
+      "title": "Bluetooth Speaker",
+      "image": "https://i.ibb.co.com/9qsZTmF/66f91b8e190b834f7f4e8f3d-bluetooth-speakers-wireless-tws.jpg",
+      "category": "Audio",
+      "price": 79,
+      "description": "Portable Bluetooth speaker with deep bass.",
+      "specification": ["10-hour battery", "Waterproof", "Bluetooth 5.0", "Compact design"],
+      "availability": true,
+      "rating": 4.2
+    },
+    {
+      "id": 8,
+      "title": "Action Camera",
+      "image": "https://i.ibb.co.com/FgTVqNS/abans-19-tv-box.jpg",
+      "category": "Cameras",
+      "price": 299,
+      "description": "Rugged action camera for outdoor adventures.",
+      "specification": ["4K video", "Waterproof", "Wide-angle lens", "Wi-Fi enabled"],
+      "availability": true,
+      "rating": 4.4
+    },
+    {
+      "id": 9,
+      "title": "Tablet Pro",
+      "image": "https://i.ibb.co.com/gFx7D9N/images-1.jpg",
+      "category": "Tablets",
+      "price": 649,
+      "description": "High-performance tablet with stylus support.",
+      "specification": ["10.5-inch display", "256GB storage", "Stylus support", "LTE enabled"],
+      "availability": true,
+      "rating": 4.6
+    },
+    {
+      "id": 10,
+      "title": "VR Headset",
+      "image": "https://i.ibb.co.com/vxyfdQ8/229e3a4d-a08a-46ac-bccf-a82bddd4eb6d-c1246e6e3fcd20cb82219e58ad694cf0.webp",
+      "category": "VR",
+      "price": 399,
+      "description": "Immersive VR headset for virtual experiences.",
+      "specification": ["1080p resolution", "Wireless", "Built-in audio", "Comfortable fit"],
+      "availability": true,
+      "rating": 4.7
+    },
+    {
+      "id": 11,
+      "title": "Smart Home Hub",
+      "image": "https://i.ibb.co.com/Q6d5650/images-2.jpg",
+      "category": "Smart Home",
+      "price": 149,
+      "description": "Central hub to control all smart home devices.",
+      "specification": ["Voice control", "Wi-Fi enabled", "App control", "Supports multiple devices"],
+      "availability": true,
+      "rating": 4.3
+    },
+    {
+      "id": 12,
+      "title": "Wireless Charger",
+      "image": "https://i.ibb.co.com/bFt2jTL/50ec36da456dc3625ca8331b23392fd0-jpg-720x720q80.jpg",
+      "category": "Accessories",
+      "price": 49,
+      "description": "Fast wireless charger compatible with most devices.",
+      "specification": ["10W fast charging", "Compact design", "LED indicator", "USB-C compatible"],
+      "availability": true,
+      "rating": 4.1
+    }
+  ]
+  
